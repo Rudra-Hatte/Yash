@@ -9,7 +9,7 @@ for j in a :
     if j in hash_table:
         hash_table[j]+=1
     else:
-        hash_table[j] = 1
+        hash_table[j] = 6
     
 q = int(input("Enter the number of queries  "))
 
