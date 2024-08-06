@@ -16,4 +16,4 @@ q = int(input("Enter the number of queries  "))
 for k in range(q):
     num = int(input("Enter the queries "))
     print(hash_table.get(num,0))
-    
+    cvxcfsrg
