@@ -19,9 +19,9 @@ for k in range(q):
     cvxcfsrg
     
 
-
     quicksort()
     {
         
+    
     }
-
+    hjgfkufdjmy
