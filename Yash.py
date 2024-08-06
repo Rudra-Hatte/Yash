@@ -7,7 +7,7 @@ for i in range(n):
 hash_table = {}
 for j in a :
     if j in hash_table:
-        hash_table[j]+=1
+        hash_table[j]+=5
     else:
         hash_table[j] = 6
     
